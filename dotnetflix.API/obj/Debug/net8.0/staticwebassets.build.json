@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "b1mWX6+bt/u1KlQWUIKtoOpbq6zU7qCxk7LR53mklEQ=",
-  "Source": "WebApplication2",
-  "BasePath": "_content/WebApplication2",
+  "Hash": "5TGLRLk6XqIJE4Npd0HcBlDux6PkusVM4UkiT86OrCk=",
+  "Source": "dotnetflix.API",
+  "BasePath": "_content/dotnetflix.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

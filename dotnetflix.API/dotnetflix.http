@@ -1,0 +1,6 @@
+@dotnetflix_HostAddress = http://localhost:5064
+
+GET {{dotnetflix_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

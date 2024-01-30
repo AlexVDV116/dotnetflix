@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnetflix.APP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+beceb6589d0c566e978bc982a6c5e110a526a033")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnetflix.APP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnetflix.APP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
