@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetflix.API", "dotnetflix.API\dotnetflix.API.csproj", "{1C13BFE2-D9DB-4C7C-B4BD-86B82EF9C041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetflix.APP", "dotnetflix.APP\dotnetflix.APP.csproj", "{E37CCC44-E1E4-4FB6-8C8B-94F580D736E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetflix.Models", "dotnetflix.Models\dotnetflix.Models.csproj", "{D0EDC228-6050-4FE7-860E-68B88AB7F772}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C13BFE2-D9DB-4C7C-B4BD-86B82EF9C041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C13BFE2-D9DB-4C7C-B4BD-86B82EF9C041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C13BFE2-D9DB-4C7C-B4BD-86B82EF9C041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C13BFE2-D9DB-4C7C-B4BD-86B82EF9C041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E37CCC44-E1E4-4FB6-8C8B-94F580D736E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37CCC44-E1E4-4FB6-8C8B-94F580D736E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37CCC44-E1E4-4FB6-8C8B-94F580D736E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37CCC44-E1E4-4FB6-8C8B-94F580D736E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0EDC228-6050-4FE7-860E-68B88AB7F772}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0EDC228-6050-4FE7-860E-68B88AB7F772}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0EDC228-6050-4FE7-860E-68B88AB7F772}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0EDC228-6050-4FE7-860E-68B88AB7F772}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
